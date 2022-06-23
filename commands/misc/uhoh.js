@@ -9,7 +9,7 @@
  * @type {import('../../typings').LegacyCommand}
  */
  module.exports = {
-	name: "ping",
+	name: "uhoh",
 	// Refer to typings.d.ts for available properties.
 
 	execute(message, args) {
