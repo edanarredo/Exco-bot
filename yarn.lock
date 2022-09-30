@@ -875,9 +875,9 @@
   "version" "2.0.5"
 
 "undici@^5.4.0":
-  "integrity" "sha512-A1SRXysDg7J+mVP46jF+9cKANw0kptqSFZ8tGyL+HBiv0K1spjxPX8Z4EGu+Eu6pjClJUBdnUPlxrOafR668/g=="
-  "resolved" "https://registry.npmjs.org/undici/-/undici-5.4.0.tgz"
-  "version" "5.4.0"
+  "integrity" "sha512-MEvryPLf18HvlCbLSzCW0U00IMftKGI5udnjrQbC5D4P0Hodwffhv+iGfWuJwg16Y/TK11ZFK8i+BPVW2z/eAw=="
+  "resolved" "https://registry.npmjs.org/undici/-/undici-5.5.1.tgz"
+  "version" "5.5.1"
 
 "unique-string@^2.0.0":
   "integrity" "sha512-uNaeirEPvpZWSgzwsPGtU2zVSTrn/8L5q/IexZmH0eH6SA73CmAA5U4GwORTxQAZs95TAXLNqeLoPPNO5gZfWg=="
